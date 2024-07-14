@@ -30,9 +30,12 @@ I am a Full Stack Developer from Uzbekistan.
 
 ---
 
-### Languages and Tools :
+<h2 align="center">
+  My Skills
+  
+</h2>
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  title="Tailwind Css" alt="Tailwind Css" width="40" height="40"/>&nbsp;
@@ -44,13 +47,6 @@ I am a Full Stack Developer from Uzbekistan.
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
-
-### Hi there, I am Mirabbos! 👋
-I'm a Software Engineer based in Uzbekistan.
-
-### NOW
-- ✨ I am currently working at Fido biznes.
-
 ### BIO
 - 🏢 Currently working at Fido biznes.
 - ⚙️ My specialties: .NET, ASP.NET Core, Spring boot , Winforms, PostgreSQL.
@@ -60,14 +56,7 @@ I'm a Software Engineer based in Uzbekistan.
 - 🌱 Learning all about Open Source.
 - 📫 Connect with me: [Telegram](https://t.me/Mirabbos_Egamberdiyev), [LinkedIn](https://www.linkedin.com/in/mirabbos-egamberdiyev-3901862a2/).
 - ⚡️ Fun fact: I am a fan of playing table tennis.
-### Top Skills
-- C# and Java
-- ASP.NET Web API and Spring boot
-- PostgreSQL
-- Microsoft SQL Server
-- ASP.NET Core
-Feel free to reach out for collaborations or discussions on any projects or technologies!
-<br/>
+
 
 <p align="center">
   <a href="https://github.com/MirabbosEgamberdiyev?tab=repositories&sort=stargazers">
