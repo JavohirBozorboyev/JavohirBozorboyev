@@ -3,17 +3,9 @@
 </div>
 <br />
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/javohir-bozorboyev-9715a1234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <br />
-
 </div>
 
 <h1 align="center">
@@ -22,12 +14,12 @@
 </h1>
 
 <div align="center">
-  ###  About Me :
-I am a Full Stack Developer from Uzbekistan.
+ <h2> About Me </h2>
+<h3>I am a Frontend developer from Uzbekistan.</h3>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend  for building web applications.
+ :telescope: I’m working as a Software Engineer and contributing to frontend  for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+ :seedling: Exploring Technical Content Writing.
 </div>
 
 --
@@ -50,8 +42,6 @@ I am a Full Stack Developer from Uzbekistan.
 </div>
 
 
-- 📫 Connect with me: [Telegram](https://t.me/Joha_developer), [LinkedIn](https://www.linkedin.com/in/javohir-bozorboyev-9715a1234/).
-- 
 
 
 <p align="center">
@@ -66,7 +56,7 @@ I am a Full Stack Developer from Uzbekistan.
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Borzorboyev Javohir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JavohirBozorboyev&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+ 
 </p>
 
 
