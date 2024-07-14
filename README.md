@@ -21,14 +21,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-###  About Me :
+<div align="center">
+  ###  About Me :
 I am a Full Stack Developer from Uzbekistan.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend  for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
+</div>
 
----
+--
 
 <h2 align="center">
   My Skills
@@ -67,19 +69,8 @@ I am a Full Stack Developer from Uzbekistan.
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
---
- 
-</div>
 
-## ✨ More info
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <br/>
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Javohir' Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=JavohirBozorboyev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Javohir' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavohirBozorboyev&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-    <br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </div>
+
 
 
 
