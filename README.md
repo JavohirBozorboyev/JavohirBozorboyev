@@ -18,9 +18,8 @@
 
 <div align="center">
  <h2> About Me </h2>
-<h3>I am a Frontend developer from Uzbekistan.</h3>
-
- :telescope: I’m working as a Software Engineer and contributing to frontend  for building web applications.
+  :telescope: I have 2 years experience at Boborahim Mashrab XM and UITC IT Academy.
+ :telescope: I’m working as a Frontend developer and contributing to frontend  for building web applications.
 
  :seedling: Exploring Technical Content Writing.
 </div>
