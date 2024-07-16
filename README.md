@@ -18,10 +18,9 @@
 
 <div align="center">
  <h2> About Me </h2>
-  :telescope: I have 2 years experience at Boborahim Mashrab XM and UITC IT Academy.
- :telescope: I’m working as a Frontend developer and contributing to frontend  for building web applications.
-
- :seedling: Exploring Technical Content Writing.
+ <p> I have 2 years experience at Boborahim Mashrab XM and UITC IT Academy. <br>
+ I’m working as a Frontend developer and contributing to frontend  for building web applications. <br>
+ Exploring Technical Content Writing.</p>
 </div>
 
 
